@@ -16,7 +16,7 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
 | ------------- | ------------- |
 | **.ipynb Folder** | This folder includes the Jupyter notebook files that were utilized to scrape the data from the web.  |
 | **Dataset Folder** | Within this folder, there are two CSV tables that were acquired by scraping data from the web.  |
-| **Presentation Folder** | This folder contains presentation in pdf as well as in ppt format.  |
+| **Presentation Folder** | This folder contains presentation in pdf format.  |
 | **Dashboard File** | This is Power BI-based dashboard that we developed to generate insights. |
 
 <br>
