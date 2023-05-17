@@ -44,9 +44,26 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Summary
 
-    1. Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
+     1. Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
+    	a)MainPage Scrapper
+	
+  ![1](https://github.com/dhananjay-metangale/Restaurant-Recommendation-Model/assets/122404051/a7f8a5dd-f318-4d1d-8f8c-786076709112)
+
+  ![2](https://github.com/dhananjay-metangale/Restaurant-Recommendation-Model/assets/122404051/aee43ffd-ff2c-4c75-ab7b-cb1b6c904720)
+    
+    	b)Restaurants info Scrapper
+    
+   ![3](https://github.com/dhananjay-metangale/Restaurant-Recommendation-Model/assets/122404051/76eec00b-f83f-4cb4-8e04-c9028497b4f3)
  
     2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor and obtained two tables.
+    	a) Cleaned Table with Restaurant and their links
+	
+   ![4](https://github.com/dhananjay-metangale/Restaurant-Recommendation-Model/assets/122404051/249e80f3-132a-4bc1-9784-b6774fcc1bcf)
+    	
+	b) Cleaned Table with Restaurant & Their Info
+    
+   ![5](https://github.com/dhananjay-metangale/Restaurant-Recommendation-Model/assets/122404051/27be5f54-793a-42a8-b866-57fab2181ec6)
+
     
     3. Then, we imported the cleaned tables into MySQL and joined them.
     
@@ -55,6 +72,7 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
     5. In Power Bi, we made some useful KPI's and some user friendly charts.
     
     6. Created a interactive and dynamic dashboard at the end using Power Bi and generated some useful insights.
+
     
 
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Dashboard Screenshot
